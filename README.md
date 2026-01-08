@@ -1,7 +1,7 @@
 # 👨🏻‍💻 Julio Oliveira
 **`Desenvolvedor de Software`**
 
-🎓 Atualmente curso Análise e Desenvolvimento de Sistemas na FIAP.
+🎓 Formado em Análise e Desenvolvimento de Sistemas na FIAP.
 
 🚀 Apaixonado por tecnologia, desenvolvimento de software e inovação.
 
